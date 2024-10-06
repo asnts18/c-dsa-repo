@@ -1,4 +1,8 @@
 /*
+Abegail Santos
+CS 5008 - Fall 2024 
+
+Module 2: The C Programming Language: Intro to C, pointers, and arrays
 Passing Structs by Reference and Use of the Arrow Operator
 
 This code shows how to update and print structs through the process of passing them by reference. 
